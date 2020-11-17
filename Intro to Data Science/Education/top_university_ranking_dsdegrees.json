@@ -1,0 +1,785 @@
+[
+   {
+      "name":"Data Science",
+      "university":"Harvard University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://www.seas.harvard.edu/applied-computation/graduate-programs/masters-data-science",
+      "description":"The Data Science master's program, jointly led by the Computer Science and Statistics faculties and administered through the Institute for Applied Computational Science (IACS), trains students in the rapidly growing field of data science. Data Science lies at the intersection of statistical methodology, computational science, and a wide range of application domains.  The program offers strong preparation in statistical modeling, machine learning, optimization, management and analysis of massive data sets, and data acquisition.  The program focuses on topics such as reproducible data analysis, collaborative problem solving, visualization and communication, and security and ethical issues that arise in data science.",
+      "application requirements":"We are looking for candidates who have demonstrated a capacity for advanced computational work by excelling in courses in math, computer science, statistics or scientific computing; exploring computational  or statistical approaches in undergraduate research or through distinctive professional accomplishment. There are no formal prerequisites for applicants to our master’s programs. However successful applicants do need to have sufficient background in Computer Science, Math, and Statistics - including fluency in at least one programming language and knowledge of calculus, linear algebra, and statistical inference.",
+      "courses":{
+         "mandatory":[
+            "Data Science 1: Introduction to Data Science",
+            "Data Science 2: Advanced Topics in Data Science",
+            "Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference, and Optimization",
+            "Systems Development for Computational Science",
+            "Critical Thinking in Data Science"
+         ],
+         "electives":[
+            "Data Systems",
+            "Visualization",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Advanced Machine Learning",
+            "Topics in Machine Learning",
+            "Time Series & Prediction",
+            "Linear Models",
+            "Generalized Linear Models",
+            "Statistical Machine Learning"
+         ],
+         "final":[
+            "Master Thesis"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"Stanford University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"1.5",
+      "link":"https://statistics.stanford.edu/academic-programs/graduate-programs/ms-statistics-data-science",
+      "description":"The Data Science track develops strong mathematical, statistical, computational and programming skills, in addition to providing fundamental data science education through general and focused electives requirement from courses in data sciences and other areas of interest.",
+      "application requirements":"For the Data Science program, fundamental courses in mathematics and computing may be needed as prerequisites for other courses in the program. Recommended preparatory courses include advanced undergraduate level courses in linear algebra and probability, and introductory courses in stochastic processes, numerical methods and proficiency in programming (Basic usage of the Python and C/C++ programming languages)",
+      "courses":{
+         "mandatory":[
+            "Introduction to Statistical Inference",
+            "Theory of Statistics I",
+            "Introduction to Regression Models and Analysis of Variance",
+            "Applied Statistics I",
+            "Modern Applied Statistics: Learning",
+            "Numerical Linear Algebra",
+            "Stochastic Methods in Engineering",
+            "Advanced Software Development for Scientists and Engineers",
+            "Introduction to parallel computing using MPI, openMP, and CUDA",
+            "Mining Massive Data Sets",
+            "Distributed Algorithms and Optimization",
+            "Master Thesis",
+            "Final Project"
+         ],
+         "electives":[
+            "Sampling",
+            "Advanced Statistical Methods for Observational Studies",
+            "Intermediate Econometrics II",
+            "Topics in Causal Inference",
+            "Convex Optimization I",
+            "Statistical Learning Theory",
+            "Modern Applied Statistics: Data Mining",
+            "Artificial Intelligence: Principles and Techniques",
+            "Natural Language Processing with Deep Learning",
+            "Deep Learning",
+            "Convolutional Neural Networks for Visual Recognition",
+            "Reinforcement Learning",
+            "Deep Generative Models",
+            "Consulting Workshop",
+            "Consulting Workshop on Biomedical Data Science"
+         ],
+         "final":[
+            "none"
+         ]
+      }
+   },
+   {
+      "name":"Statistical Science",
+      "university":"University of Oxford",
+      "degree":"Master",
+      "country":"UK",
+      "duration (in years)":"1",
+      "link":"https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science",
+      "description":"The MSc in Statistical Science will aim to train you to solve real-world statistical problems. When completing the course you should be able to choose an appropriate statistical method to solve a given problem of data analysis, implement the analysis on a computer and communicate your results clearly and succinctly. The MSc offers a broad high-level training in applied and computational statistics, statistical machine learning, and the fundamental principles of statistical inference. Training is delivered through mathematically demanding lectures and problems classes, hands-on practical sessions in the computer laboratory, report writing and dissertation supervision. You will have around three months to work on your dissertation with guidance from your supervisor, offering you a substantial opportunity for self-directed study and research. ",
+      "application requirements":"a first-class or strong upper second-class undergraduate degree with honours in a degree course with advanced mathematical and statistical content",
+      "courses":{
+         "mandatory":[
+            "Applied Statistics",
+            "Foundations of Statistical Inference",
+            "Statistical Programming",
+            "Computational Statistics",
+            "Statistical Machine Learning",
+            "Bayes Methods"
+         ],
+         "electives":[
+            "Stochastic Models in Mathematical Genetics",
+            "Probability and Statistics for Network Analysis",
+            "Graphical Models",
+            "Algorithmic Foundations of Learning",
+            "Advanced Topics in Statistical Machine Learning",
+            "Advanced Simulation Methods"
+         ],
+         "final":[
+            "Master Thesis"
+         ]
+      }
+   },
+   {
+      "name":"Social Data Science",
+      "university":"University of Oxford",
+      "degree":"Master",
+      "country":"UK",
+      "duration (in years)":"1",
+      "link":"https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science",
+      "description":"The multidisciplinary MSc in Social Data Science provides the social and technical expertise needed to analyse unstructured heterogeneous data about human behaviour, thereby informing our understanding of the human world. Social data generated digitally (from, for example, social media, communications platforms, Internet of Things (IoT) devices, sensors/wearables, and mobile phones) offer a way to accumulate new large-scale data, in addition to existing data that have been converted to digital formats. These data can be put to work helping us understand big issues of crucial interest to the social sciences, industry, and policy-makers including social, economic and political behaviour, interpersonal relationships, market design, group formation, identity, international movement, ethics and responsible ways to enhance the social value of data, and many other topics. The growing field of social data science involves developing the science of these social data: creating viable datasets out of messy, real world data; and developing the tools and techniques to analyse them to tell us something about the world, through explanation, prediction and the testing of interventions. In this way, social data science offers a data science where the data relates to individual and social behaviour and a social science with generation and analysis of real-time transactional data at its centre.",
+      "application requirements":"a first-class undergraduate degree with honours in any subject. Applicants are normally expected to demonstrate quantitative aptitude or experience in introductory calculus and matrix algebra, equivalent to, for example: A-levels mathematics, Mathematical Studies SL from the International Baccalaureate Diploma Programme or Advanced Placement (AP) Calculus AB.  It is strongly encouraged for applicants to have at least a working familiarity with the basics of programming, regardless of language.",
+      "courses":{
+         "mandatory":[
+            "Foundations of Social Data Science",
+            "Frontiers of Social Data Science",
+            "Applied Analytical Statistics",
+            "Research Design for Social Data Science",
+            "Foundations of Visualisation",
+            "Fundamentals of Social Data Science in Python",
+            "Data Analytics at Scale",
+            "Machine Learning"
+         ],
+         "electives":[
+            "Digital Era Government and Politics",
+            "Experiments for Data Science",
+            "Human and Data Intelligence",
+            "Internet Economics",
+            "Introduction to Speech and Language Processing",
+            "Introduction to Fairness, Accountability, and Transparency in Machine Learning",
+            "Introduction to Natural Language Processing for the Social Sciences",
+            "Online Social Networks",
+            "Statistical Analysis of Networks",
+            "Sociological Analysis",
+            "Sociogenomics",
+            "Statistical Lifetime Models",
+            "The Philosophy and Ethics of Information",
+            "Time Series Econometrics"
+         ],
+         "final":[
+            "Master Thesis"
+         ]
+      }
+   },
+   {
+      "name":"Statistics and Data Science",
+      "university":"Yale University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://statistics.yale.edu/academics/graduate-programs/terminal-mams-programs/course-study",
+      "description":"It is hard to describe a typical course of study, because students come to the M.S. program with widely differing backgrounds and professional objectives.",
+      "application requirements":"We value diversity of all kinds at the Graduate School, and we encourage students from all backgrounds to apply if Yale is a good fit for your intellectual and professional goals.",
+      "courses":{
+         "mandatory":[
+            "Probability and Statistics",
+            "Probability Theory",
+            "Theory of Statistics",
+            "Linear Models",
+            "Case Studies",
+            "Multivariate Statistics",
+            "Applied Data Mining and Machine Learning",
+            "Data Analysis",
+            "Deep Learning Theory and Applications",
+            "Optimization Techniques",
+            "Nonparametric Estimation and Machine Learning",
+            "Statistical Learning Theory",
+            "Computational Tools for Data Science",
+            "Statistical Computing",
+            "Computational Statistics",
+            "Parallel Programming Techniques",
+            "Building Distributed Systems",
+            "Object-Oriented Programming",
+            "Topics in Numerical Computation"
+         ],
+         "electives":"any",
+         "final":[
+            "Internship",
+            "Master Thesis"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"Columbia University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"1.5",
+      "link":"https://www.datascience.columbia.edu/education/programs/m-s-in-data-science/",
+      "description":"The M.S. in Data Science allows students to apply data science techniques to their field of interest. Columbia data science students have the opportunity to conduct original research, produce a capstone project, and interact with our industry partners and world-class faculty. Students may also choose an elective track focused on entrepreneurship or a subject area covered by one of our centers.",
+      "application requirements":"Undergraduate degree. Prior quantitative coursework (calculus, linear algebra, etc.). Prior introductory computer programming coursework.",
+      "courses":{
+         "mandatory":[
+            "Introduction to Data Science",
+            "Computer Systems for Data Science",
+            "Machine Learning for Data Science",
+            "Algorithms for Data Science",
+            "Probability and Statistics for Data Science",
+            "Exploratory Data Analysis and Visualization",
+            "Statistical Inference and Modeling"
+         ],
+         "electives":[
+            "Applied Machine Learning",
+            "Applied Deep Learning",
+            "Topics in Computer Science: Causal Inference for Data Science",
+            "Data Analytics Pipeline",
+            "Elements of Data Science",
+            "Machine Learning with Probabilistic Programming",
+            "Computational Models of Social Meaning",
+            "Deep Learning for Computer Vision, Speech, and Language",
+            "Personalization Theory & Application",
+            "Big Data in Finance",
+            "Applied Machine Learning for Financial Modeling and Forecasting",
+            "Applied Machine Learning for Image Analysis",
+            "Data Science Capstone and Ethics",
+            ""
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Information and Data Science",
+      "university":"University of California Berkeley",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://ischoolonline.berkeley.edu/data-science/curriculum/",
+      "description":"The online Master of Information and Data Science (MIDS) is designed to educate data science leaders. The professional degree program prepares students to derive insights from real-world data sets, use the latest tools and analytical methods, and interpret and communicate their findings in ways that change minds and behaviors. The program features a multidisciplinary curriculum that draws on insights from the social sciences, computer science, statistics, management, and law.",
+      "application requirements":"Proficiency in programming languages, such as Python or Java, should be demonstrated by prior work experience or advanced coursework. You should have a superior scholastic record — normally well above a 3.0 GPA. The recognized equivalent to a bachelor's degree is also accepted, if earned from an accredited institution.",
+      "courses":{
+         "mandatory":[
+            "Introduction to Data Science Programming",
+            "Research Design and Application for Data and Analysis",
+            "Statistics for Data Science",
+            "Fundamentals of Data Engineering",
+            "Applied Machine Learning",
+            "Experiments and Causal Inference",
+            "Behind the Data: Humans and Values",
+            "Deep Learning in the Cloud and at the Edge",
+            "Statistical Methods for Discrete Response, Time Series, and Panel Data",
+            "Machine Learning at Scale",
+            "Natural Language Processing with Deep Learning",
+            "Data Visualization"
+         ],
+         "electives":[
+            "Python for Data Science"
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Analytics",
+      "university":"University of Chicago",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"1",
+      "link":"https://grahamschool.uchicago.edu/academic-programs/masters-degrees/analytics",
+      "description":"The University of Chicago Master of Science in Analytics attracts students from all over the world to our downtown Chicago campus. Our students use their degrees as a springboard to dive into the analytics field, discover new ways to use analytics to explore complex questions, and shape themselves into leaders in the analytics community. You will join a program at the forefront of the exciting developments within the field of analytics by educating students on cutting-edge analytical models and by making sure that students become lifelong learners by continuing to advance their knowledge even after they graduate. Knowledge, fueled by science and technology-based innovations, has become the currency of twenty-first century economy. Join our students using their data analytics degrees to share the knowledge gained from analytics insights.",
+      "application requirements":"Pre-quarter courses covering introduction to statistical concepts (aka, “stats boot camp”) and an R workshop are held. Students with little to no evidence of completing coursework in statistics may be required to complete this 5-week pre-quarter course.",
+      "courses":{
+         "mandatory":[
+            "Time Series Analysis and Forecasting",
+            "Statistical Analysis",
+            "Data Mining Principles",
+            "Machine Learning and Predictive Analytics",
+            "Linear and Nonlinear Models for Business Applications",
+            "Data Engineering Platforms for Analytics",
+            "Big Data Platforms",
+            "Leadership Skills: Teams, Strategies, and Communications",
+            "Data Science for Consulting"
+         ],
+         "electives":[
+            "Introduction to Statistical Concepts",
+            "Advanced Linear Algebra for Machine Learning",
+            "Python for Analytics"
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"University of Pennsylvania",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://dats.seas.upenn.edu/",
+      "description":"Penn’s Master of Science in Engineering (MSE) in Data Science prepares students for a wide range of data-centric careers, whether in technology and engineering, consulting, science, policy-making, or understanding patterns in literature, art or communications. The Data Science Program can typically be completed in one-and-a-half to two years. It blends leading-edge courses in core topics such as machine learning, big data analytics, and statistics, with a variety of electives and an opportunity to apply these techniques in a domain specialization – a depth area – of choice.",
+      "application requirements":"Applicants for Master’s and Doctoral programs must have obtained a Bachelor’s degree from an accredited School or University prior to intended matriculation date. The degree programs must be a minimum of three years in length.",
+      "courses":{
+         "mandatory":[
+            "Programming Languages & Techniques",
+            "Introduction to  Software Development",
+            "Algorithms: Algorithms & Computation",
+            "Mathematical Statistics",
+            "Linear Algebra/Optimization",
+            "Statistics for Data Science",
+            "Big Data Analytics",
+            "Intro to Machine Learning",
+            "Machine Learning",
+            "Modern Data Mining",
+            "Data-driven Modeling and Probabilistic Scientific Computing",
+            "Data Mining: Learning from Massive Datasets"
+         ],
+         "electives":[
+            "Brain-Computer Interfaces",
+            "Network Neuroscience",
+            "Mathematical Computation Methods for Modeling Biological Systems",
+            "Introduction to Computational Biology and Biological Modeling",
+            "Biomedical Image Analysis",
+            "Theoretical and Computational Neuroscience",
+            "Bioinformatics",
+            "Econometrics I- Fundamentals",
+            "Econometrics III: Advanced Techniques of Cross-Section Econometrics",
+            "Econometrics IV: Advanced Techniques of Time-Series Econometrics",
+            "Applied Probability Models in Marketing",
+            "Software Systems",
+            "Databases",
+            "Advanced Programming",
+            "Internet and Web Systems",
+            "Programming and Problem Solving",
+            "Software Engineering",
+            "Computer Systems Programming",
+            "Forecasting and Time-Series Analysis",
+            "Sample Survey Methods",
+            "Observational Studies",
+            "Modern Regression for the Social, Behavioral and Biological Science",
+            "Accelerated Regression Analysis",
+            "Artificial Intelligence",
+            "Deep Learning for Data Science",
+            "Computational Linguistics",
+            "Machine Perception",
+            "Computer Vision",
+            "Advanced Topics in Machine Learning",
+            "Advanced Topics in Computer Vision",
+            "Learning in Robotics",
+            "Modern Data Mining",
+            "Molecular Modeling and Simulations",
+            "Computational Science of Energy and Chemical Transformations",
+            "Finite Element Analysis",
+            "Computational Mechanics",
+            "Atomic Modeling in Materials Science",
+            "Multiscale Modeling of Biological Systems",
+            "Mathematical Computation Methods for Modeling Biological Systems",
+            "Advanced Linear Algebra",
+            "Algorithms",
+            "Linear Algebra/Optimization",
+            "Computational Learning Theory",
+            "Randomized Algorithms",
+            "Numerical Methods",
+            "Data-driven Modeling and Probabilistic Scientific Computing",
+            "Introduction to Optimization Theory",
+            "Data Mining: Learning from Massive Datasets",
+            "Simulation Modeling and Analysis",
+            "Convex Optimization",
+            "Information Theory",
+            "Stochastic Processes"
+         ],
+         "final":[
+            "Master Thesis",
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"Johns Hopkins University",
+      "degree":"Masters",
+      "country":"USA",
+      "duration (in years)":"1.5",
+      "link":"https://engineering.jhu.edu/ams/data-science-masters-program/",
+      "description":"The Data Science Master’s degree at the Johns Hopkins University will provide the training in applied mathematics, statistics and computer science to serve as the basis for an understanding, and appreciation, of existing data science tools.  Our program aims to produce the next generation of leaders in data science by emphasizing mastery of the skills needed to translate real-world data-driven problems in mathematical ones, and then solving these problems by using a diverse collection of scientific tools.",
+      "application requirements":"Prospective students for our graduate programs should ideally have completed a Bachelor’s level degree in Engineering, Mathematics, the Sciences, Finance or Economics. In addition, candidates should ideally have completed undergraduate-level courses in Calculus, through multivariable calculus, Linear algebra, Differential equations, Probability and statistics, Microeconomics and macroeconomics, Computer programming (e.g., in C++)",
+      "courses":{
+         "mandatory":[
+            "Introduction to Data Science",
+            "Introduction to Statistics",
+            "Bayesian Statistics",
+            "Statistical Theory I",
+            "Statistical Theory II",
+            "Machine Learning",
+            "Statistical Machine Learning",
+            "Nonlinear Optimization I",
+            "Nonlinear Optimization II",
+            "Convex Optimization",
+            "Computing for Applied Mathematics",
+            "Parallel Programming"
+         ],
+         "electives":[
+            "Introduction to Bioinformatics",
+            "Bioinformatics: Tools for Genome Analysis",
+            "Methods in Proteomics",
+            "Gene Expression Data Analysis and Visualization",
+            "Computational Molecular Medicine",
+            "Algorithms for Bioinformatics",
+            "Foundations of Algorithms",
+            "Computational Genomics",
+            "Analysis of Gene Expression and High-Content Biological Data",
+            "Information Theory",
+            "Machine Learning for Signal Processing",
+            "Compressed Sensing and Sparse Recovery",
+            "Random Signal Analysis",
+            "Machine Learning",
+            "Graphical Models",
+            "Machine Learning",
+            "Machine Learning: Data to Models",
+            "Machine Learning: Optimization",
+            "Causal Inference",
+            "Machine Learning: Representation Learning",
+            "Statistical Machine Learning",
+            "Unsupervised Learning: Big Data to Low-Dimensional Representations",
+            "Computer Vision",
+            "Machine Learning: Deep Learning",
+            "Vision as Bayesian Inference",
+            "Stochastic Processes in Finance I",
+            "Stochastic Processes in Finance II",
+            "Equity Markets and Quantitative Trading",
+            "Investment Science",
+            "Introduction to Financial Derivatives",
+            "Interest Rate and Credit Derivatives",
+            "Risk Measurement and Management in Financial Markets",
+            "Quantitative Portfolio Theory & Performance Analysis",
+            "Financial Engineering and Structured Products",
+            "Advanced Equity Derivatives",
+            "Commodities and Commodity Markets",
+            "Monte Carlo Methods",
+            "Introduction to Convexity",
+            "High-Dimensional Approximation, Probability, and Statistical Learning",
+            "Nonlinear Optimization I",
+            "Nonlinear Optimization II",
+            "Stochastic Search and Optimization",
+            "Convex Optimization",
+            "Combinatorial Optimization",
+            "Matrix Analysis",
+            "Randomized and Big Data Algorithms",
+            "Approximation Algorithms",
+            "Semantics I",
+            "Semantics II",
+            "Syntax",
+            "Phonology",
+            "Information Extraction",
+            "Speech and Auditory Processing by Humans and Machines",
+            "Natural Language Processing",
+            "Machine Learning: Linguistic and Sequence Modeling",
+            "Statistical Machine Learning: Methods, Theory, and Applications",
+            "Bayesian Statistics",
+            "Statistical Theory",
+            "Statistical Theory II",
+            "Topics in Statistical Pattern Recognition",
+            "Distribution-free Statistics and Resampling Methods",
+            "High-Dimensional Approximation, Probability, and Statistical Learning",
+            "Statistical Pattern Recognition Theory & Methods",
+            "Causal Inference",
+            "Statistical Machine Learning"
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"ETH Zurich",
+      "degree":"Master",
+      "country":"Switzerland",
+      "duration (in years)":"2",
+      "link":"https://inf.ethz.ch/studies/master/master-ds.html",
+      "description":"Data science is a driving force of today's information age. The specialized ETH Master's program in data science, offered in collaboration with the Department of Mathematics as well as the Department of Information Technology and Electrical Engineering, provides a high quality education geared towards nurturing the next generation of data scientists. It is a two-​year program fully taught in English.Computers have fundamentally changed the way the world produces, manages, processes and analyzes data. In light of the continuous growth of data all around the globe, the question of how we can use data to gain valuable insights is more important than ever. How can we extract relevant information from massive amounts of data? In which way can computers learn from experience to make intelligent decisions? These questions are key to the specialized Master’s program in data science. Research in the field of data science requires solid skills in managing and storing massive amounts of data as well as the ability to develop efficient mathematical algorithms for data analysis. These techniques are employed in complex applications in engineering and science. Part of the program is the Data Science Laboratory, where students tackle specific and practical problems of interdisciplinary applications. In this course students engage in all tasks - from the process modelling to the implementation and validation of data science techniques.",
+      "application requirements":"Hold a Bachelor’s degree in computer science, mathematics, electrical engineering, physics, mechanical engineering, or a related field. Must have a strong background in mathematics, programming, and algorithms.",
+      "courses":{
+         "mandatory":[
+            "Advanced Machine Learning",
+            "Neural Network Theory",
+            "Fundamentals of Mathematical Statistics",
+            "Big Data",
+            "Data Management Systems",
+            "Advanced Algorithms",
+            "Optimization for Data Science"
+         ],
+         "electives":[
+            "Research in Data Science",
+            "Machine Learning on Microcontrollers",
+            "Algorithmic Game Theory",
+            "System Security",
+            "Natural Language Understanding",
+            "Algorithms Lab",
+            "Information Security Lab",
+            "Reliable and Interpretable Artificial Intelligence",
+            "Design of Parallel and High-Performance Computing",
+            "Deep Learning",
+            "Probabilistic Artificial Intelligence",
+            "Computer Vision",
+            "Information Security",
+            "Statistical Learning Theory",
+            "Shape Modeling and Geometry Processing",
+            "3D Vision",
+            "Advanced Systems Lab",
+            "Computational Intelligence Lab",
+            "Program Analysis for System Security and Reliability",
+            "Machine Perception",
+            "Cloud Computing Architecture",
+            "Advanced Graph Algorithms and Optimization",
+            "Guarantees for Machine Learning",
+            "Applied Analysis of Variance and Experimental Design",
+            "Probabilistic Method in Combinatorics",
+            "Probability Theory",
+            "Stochastic Simulation",
+            "Statistical Modelling",
+            "High-Dimensional Statistics",
+            "Mathematical Optimization",
+            "Geometric Tomography - Uniqueness, Statistical Reconstruction and Algorithms",
+            "Advanced Topics in Computational Statistics",
+            "Time Series Analysis",
+            "Numerical Methods for Partial Differential Equations",
+            "Graph Theory",
+            "Applied Stochastic Processes",
+            "Estimation and Testing under Sparsity",
+            "Causality",
+            "Mathematics of Data Science",
+            "Multivariate Statistics",
+            "Statistical Modelling of Spatial Data",
+            "Discrete-Time and Statistical Signal Processing",
+            "Information Theory",
+            "Mathematical Methods of Signal Processing",
+            "System Identification",
+            "Systems-on-chip for Data Analytics and Machine Learning",
+            "Stochastic Systems",
+            "Information Theory II",
+            "Principles of Distributed Computing",
+            "Deep Learning for Autonomous Driving",
+            "Dynamic Programming and Optimal Control",
+            "Recursive Estimation",
+            "Quantum Information Theory",
+            "Quantum Information Processing I: Concepts",
+            "Advanced Topics in Machine Learning",
+            "Hardware Acceleration for Data Processing",
+            "Causal Representation Learning",
+            "Computational Challenges in Medical Genomics",
+            "Student Seminar in Statistics",
+            "Foundations of Data Science Seminar",
+            "Big Data, Law, and Policy"
+         ],
+         "final":[
+            "Master Thesis"
+         ]
+      }
+   },
+   {
+      "name":"Data Science Engineering",
+      "university":"University of California Los Angeles",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2,5",
+      "link":"https://www.msol.ucla.edu/data-science-engineering/",
+      "description":"The exponential growth of data generated by machines and humans present unprecedented challenges and opportunities. From the analysis of this “big data”, businesses can learn key insights about their customers to make informed business decisions. Scientists can discover previously unknown patterns hidden deep inside the mountains of data. In this program, students will learn key techniques used to design and build big data systems and gain familiarity with data-mining and machine-learning techniques that are the foundations behind successful information search, predictive analysis, smart personalization, and many other technology-based solutions to important problems in business and science.",
+      "application requirements":"A bachelor’s degree in an engineering discipline, mathematics, or physics",
+      "courses":{
+         "mandatory":[
+            "Database Systems",
+            "Current Topics in Data Structures",
+            "Matrix Analysis for Scientists and Engineers",
+            "Big Data Analytics",
+            "Large-Scale Data Mining: Models and Algorithms",
+            "Machine Learning Algorithms",
+            "Large-Scale Social and Complex Networks: Design and Algorithms",
+            "Learning and Reasoning with Bayesian Networks",
+            "Data Science Fundamentals",
+            "Neural Networks and Deep Learning"
+         ],
+         "electives":[
+            "Probability and Statistics",
+            "Digital Speech Processing",
+            "Advanced Topics in Speech Processing",
+            "Mathematical Foundations of Data Storage Systems",
+            "Web Information Systems",
+            "Automated Reasoning: Theory and Applications"
+         ],
+         "final":[
+            "Final Project",
+            "Final Exam"
+         ]
+      }
+   },
+   {
+      "name":"Data Science",
+      "university":"New York University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://cds.nyu.edu/masters-program/",
+      "description":"The Master of Science in Data Science is a highly-selective program for students with a strong background in mathematics, computer science, and applied statistics. The degree focuses on the development of new methods for data science. We live in the “Age of the Petabyte,” soon to become “The Age of the Exabyte.” Our networked world is generating a deluge of data that no human, or group of humans, can process fast enough. This data deluge has the potential to transform the way business, government, science, and healthcare are carried out. But too few possess the skills needed to use automated analytical tools and cut through the noise to create knowledge from big data. A new discipline has emerged to address the need for professionals and researchers to deal with the “data tidal wave.” Its object is to provide the underlying theory and methods of the data revolution. This emergent discipline is known by several names. We call it “data science,” and we have created the world’s first MS degree program devoted to it.",
+      "application requirements":"To be considered for the program, you will be required to have completed the following (or equivalents): Calculus I: limits, derivatives, series, integrals, etc., Linear Algebra, Intro to Computer Science (or an equivalent “CS-101” programming course): We have no set requirements as regards specific languages, but we generally expect serious academic and/or professional experience with Python and/or R at a minimum. One of Calculus II, Probability, Statistics, or an advanced physics, engineering, or econometrics course with heavy mathematical content",
+      "courses":{
+         "mandatory":[
+            "Introduction to Data Science",
+            "Probability and Statistics for Data Science",
+            "Machine Learning",
+            "Big Data"
+         ],
+         "electives":[
+            "Inference and Representation",
+            "Deep Learning",
+            "Natural Language Processing with Representation Learning",
+            "Natural Language Understanding and Computational Semantics",
+            "Mathematical Tools for Data Science",
+            "Optimization and Computational Linear Algebra",
+            "Fundamental Algorithms",
+            "Database Systems",
+            "Programming Languages",
+            "Programming for Data Science",
+            "Practical Training for Data Science",
+            "Independent Study",
+            "Probabilistic Time Series Analysis",
+            "Risk Management & Machine Learning",
+            "Machine Learning for Healthcare",
+            "Mathematical Statistics",
+            "Bayesian Machine Learning",
+            "Introduction to Data Science for PhD Students",
+            "Search and Discovery",
+            "Fundamental Algorithms",
+            "Database Systems",
+            "Risk & Portfolio Management with Econometrics",
+            "Foundations of Machine Learning",
+            "Bioinformatics & Genomes",
+            "Statistical Natural Language Processing",
+            "Foundations of Computer Science",
+            "Forecast Time Series Data",
+            "Frequency Domain Time Series",
+            "Regression & Multivariate Data Analysis"
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Computer Science (Data Science)",
+      "university":"University of Illinois at Urbana–Champaign",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"1.5",
+      "link":"https://cds.nyu.edu/masters-program/",
+      "description":"Complete a Master’s degree online in the hottest area of the new millennium! Learn about new statistical and computational methods that are transforming business and society from the Illinois faculty who are pioneering them. Illinois Computer Science offers a specialized track of courses that satisfy the MCS degree requirements, but with coursework that focuses on data science — the art of extracting new knowledge and finding meaningful information in a massive sea of data.",
+      "application requirements":"Applicants should hold a 4-year bachelor's degree (or equivalent). Students with a bachelor’s degree in a field other than CS are encouraged to apply, but to succeed in graduate-level CS courses, they must have prerequisite coursework or commensurate experience in object-oriented programming, data structures, algorithms, linear algebra, and statistics/probability.",
+      "courses":{
+         "mandatory":[
+            "Applied Machine Learning",
+            "Computational Photography",
+            "Text Information Systems",
+            "Database Systems",
+            "Introduction to Data Mining",
+            "Data Visualization",
+            "Scientific Visualization",
+            "Cloud Computing Concepts",
+            "Cloud Computing Applications",
+            "Cloud Networking"
+         ],
+         "electives":[
+            "Theory and Practice of Data Cleaning",
+            "Scientific Visualization",
+            "Foundations of Data Curation",
+            "Practical Statistical Learning",
+            "Advanced Bayesian Modeling",
+            "Cloud Computing Capstone",
+            "Data Mining Capstone",
+            "Interactive Computer Graphics",
+            "Programming Languages and Compilers",
+            "Software Engineering I",
+            "Numerical Analysis",
+            "Parallel Computing",
+            "Internet of Things",
+            "Methods of Applied Statistics"
+         ],
+         "final":[
+            "none"
+         ]
+      }
+   },
+   {
+      "name":"Interdisciplinary Data Science",
+      "university":"Duke University",
+      "degree":"Master",
+      "country":"USA",
+      "duration (in years)":"2",
+      "link":"https://datascience.duke.edu/",
+      "description":"The Duke University Master in Interdisciplinary Data Science (MIDS) is home for creative problem solvers who want to use data strategically to advance society. We're cultivating a new type of quantitative thought leader who uses computational strategies to generate innovation and new insights. MIDS combines rigorous computational and technical training with field knowledge and repeated practice in critical thinking, teamwork, communication, and collaborative leadership to generate data scientists who can add value to any field.",
+      "application requirements":"none",
+      "courses":{
+         "mandatory":[
+            "Data Science Dialogues",
+            "MIDS Workshops",
+            "Unifying Data Science",
+            "Data Logic, Visualization, and Storytelling",
+            "Data Engineering Systems",
+            "Practicing Machine Learning",
+            "Introduction to Natural Language Processing",
+            "Modeling and Representation of Data"
+         ],
+         "electives":[
+            "Data Analysis at Scale in Cloud",
+            "Practicing Data Science",
+            "Database Systems",
+            "Design and Analysis of Algorithms",
+            "Advanced Computer Architecture",
+            "Time Series Econometrics",
+            "Applied Econometrics in Microeconomics",
+            "Applied Stochastic Processes",
+            "Numerical Linear Algebra, Optimization and Monte Carlo Simulation",
+            "Applied Computational Analysis",
+            "Advanced Regression",
+            "Advanced Quantitative Research Methods in Political Science",
+            "Applied Correlation and Regression Analysis",
+            "Applied Structural Equation Modeling",
+            "Applied Multilevel Modeling",
+            "Survey Research Methods",
+            "Advanced Methods: Introduction to Social Networks",
+            "Statistical Modeling of Spatial and Time Series Data",
+            "Probabilistic Machine Learning",
+            "Bayesian and Modern Statistical Data Analysis",
+            "Missing Data Analysis: Theory and Application",
+            "Causal Inference"
+         ],
+         "final":[
+            "Final Project"
+         ]
+      }
+   },
+   {
+      "name":"Statistics (Data Science)",
+      "university":"Imperial College of London",
+      "degree":"Master",
+      "country":"UK",
+      "duration (in years)":"1",
+      "link":"https://www.imperial.ac.uk/mathematics/postgraduate/msc/statistics/prospective/msc-statistics-data-science/",
+      "description":"This one-year full-time programme provides outstanding training both in theoretical and applied statistics with a focus on Data Science. The modules will focus on a wide variety of tools and techniques related to the scientific handling of data at scale, including machine learning theory, data transformation and representation, data visualisation and using analytic software. This course will equip students with a range of transferable skills, including programming, problem-solving, critical thinking, scientific writing, project work and presentation, to enable them to take on prominent roles in a wide array of employment and research sectors.",
+      "application requirements":"We encourage applications from outstanding students from other disciplines who are able to demonstrate strong mathematical ability and a well motivated and genuine interest in advanced study in Statistics. Prior studies involving only elementary courses in mathematics and statistics and the mere use of standard statistical software packages (e.g. SPSS, SAS) are normally not considered to be adequate preparation for this course. A number of modules on the MSc programme will involve computational work in the statistical programming language, R. It is strongly desirable that you have some prior experience of any modern programming language, e.g. R, Java, C/C++, Python, MATLAB, etc.",
+      "courses":{
+         "mandatory":[
+            "Applied Statistics",
+            "Computational Statistics",
+            "Fundamentals of Statistical Inference",
+            "Probability for Statistics",
+            "Data Science",
+            "Deep Learning with TensorFlow",
+            "Machine Learning",
+            "Big Data"
+         ],
+         "electives":[
+            "Advanced Statistical Theory",
+            "Advanced Simulation Methods",
+            "Bayesian Methods",
+            "Contemporary Statistical Theory",
+            "Multivariate Analysis",
+            "Graphical Models",
+            "Introduction to Statistical Finance",
+            "Advanced Statistical Finance",
+            "Biomedical Statistics",
+            "Statistical Genetics and Bioinformatics",
+            "Advanced Simulation Methods",
+            "Algorithmic Trading and Machine Learning",
+            "Survival Models and Actuarial Applications",
+            "Quantitative Methods in Retail Finance",
+            "Time Series"
+         ],
+         "final":[
+            "Master Thesis"
+         ]
+      }
+   }
+]
