@@ -1,0 +1,128 @@
+[
+   {
+      "name":"Introduction to Data Science",
+      "program":"Master in Data Science",
+      "university":"Harvard University",
+      "semester":"1",
+      "description":"Data Science 1 is the first half of a one-year introduction to data science. The course will focus on the analysis of messy, real life data to perform predictions using statistical and machine learning methods. Material covered will integrate the five key facets of an investigation using data. Part one of a two part series. The curriculum for this course builds throughout the academic year. Students are strongly encouraged to enroll in both the fall and spring course within the same academic year. Part one of a two part series.",
+      "curriculum":[
+         "data collection - data wrangling, cleaning, and sampling to get a suitable data set",
+         "data management - accessing data quickly and reliably",
+         "exploratory data analysis – generating hypotheses and building intuition",
+         "prediction or statistical learning",
+         "communication – summarizing results through visualization, stories, and interpretable summaries"
+      ],
+      "evaluation":[
+         "unknown"
+      ]
+   },
+   {
+      "name":"Foundations of Social Data Science",
+      "program":"Master in Social Data Science",
+      "university":"University of Oxford",
+      "semester":"1",
+      "description":"Social data science is still a young domain of knowledge. This course will introduce to some of the fundamental questions that have been raised in this domain across the social sciences. Some of these questions are relatively new, such as access to commercial data where the nature of how the data are processed is not known. Others are perennial questions that have been reignited with computational approaches, such as the scientific nature or otherwise of the social sciences. These questions will be examined in relation to concrete cases or examples of research. For each case or example, we will examine three major themes: (i) the epistemological or scientific validity of big data approaches, (ii) their ethical and social aspects or implications, and (iii) their practical implications and limits.",
+      "curriculum":[
+         "Big Data and (Free Information) Markets",
+         "Big Data and (Social) Science",
+         "Algorithmic Fairness and Bias",
+         "Algorithmic Transparency and Explainability",
+         "Privacy and Regulation in Data Science",
+         "Governance and Professionalism in Social Data Science",
+         "Big Data and Development",
+         "Big Data and Measuring the Public’s Responses to Climate Change"
+      ],
+      "evaluation":[
+         "essay"
+      ]
+   },
+   {
+      "name":"Introduction to Data Science",
+      "program":"Master in Data Science",
+      "university":"Columbia University",
+      "semester":"1",
+      "description":"Data science is a dynamic and fast growing field at the interface of statistics and computer science. The emergence of massive datasets containing millions or even billions of observations provides the primary impetus for the field. Such datasets arise, for instance, in large-scale retailing, telecommunications, astronomy, and internet social media. This course will emphasize practical techniques for working with large-scale data.",
+      "curriculum":[
+         "Statistical Modeling",
+         "Machine Learning",
+         "Data pipelines",
+         "Programming Languages",
+         "Big data tools"
+      ],
+      "evaluation":[
+         "unknown"
+      ]
+   },
+   {
+      "name":"Introduction to Data Science",
+      "program":"Master in Data Science",
+      "university":"Columbia University",
+      "semester":"1",
+      "description":"Data mining is a relatively new term used in the academic and business world, often associated with the development and quantitative analysis of very large databases. Its definition covers a wide spectrum of analytic and information technology topics, such as machine learning, artificial intelligence, statistical modeling, and efficient database development. This course will review these broad topics, and cover specific analytic and modeling techniques such as advanced data visualization, decision trees, neural networks, nearest neighbor, clustering, logistic regression, and association rules. Although some of the mathematics underlying these techniques will be discussed, our focus will be on the application of the techniques to real data and the interpretation of results. Because use of the computer is extremely important when “mining” large amounts of data, we will make substantial use of data mining software tools to learn the techniques and analyze datasets.",
+      "curriculum":[
+         "unknown"
+      ],
+      "evaluation":[
+         "unknown"
+      ]
+   },
+   {
+      "name":"Data Science Fundamentals",
+      "program":"Master in Data Science Engineering",
+      "university":"University of California Los Angeles",
+      "semester":"1",
+      "description":"This course is for students with limited or no prior programming, statistics, and data analytics knowledge. This course is ideal for absolute beginners, business analysts, or non-tech managers who want to acquire a basic working knowledge of data science. In this course, students learn the role of data science in decision-making, basic statistics, entry-level python programming, and data analytics using tools such as Excel or SPSS, and Python. This is a hands-on, exercise-driven course. Students work on problem-solving exercises using pencils and paper, as well as their laptops during and outside of the class.",
+      "curriculum":[
+         "Basic statistical methods to solve basic data analysis problems",
+         "Basic Python programming",
+         "Basic Excel or SPSS statistical analysis features",
+         "Basic data analysis using Python, Excel, SPSS"
+      ],
+      "evaluation":[
+         "unknown"
+      ]
+   },
+   {
+      "name":"Introduction to Data Science",
+      "program":"Master in Data Science Engineering",
+      "university":"University of California Los Angeles",
+      "semester":"1",
+      "description":"This course introduces students to the evolving domain of data science and to the food-chain of knowledge domains involved in its application. Students learn a wide range of challenges, questions, and problems that data science helps address in different domains, including social sciences, finance, health and fitness, and entertainment. The course addresses the key knowledge domains in data science, including data development and management, machine learning and natural language processing, statistical analysis, data visualization, and inference. The course includes case studies that require students to work on real-life data science problems.",
+      "curriculum":[
+         "Configure a data science notebook server",
+         "Learn the R programming language",
+         "Prepare a well-defined problem statement for a new problem",
+         "Be introduced to machine learning"
+      ],
+      "evaluation":[
+         "unknown"
+      ]
+   },
+   {
+      "name":"Introduction to Data Science",
+      "program":"Master in Data Science",
+      "university":"New York University",
+      "semester":"1",
+      "description":"The course will explain, through lectures and real-world examples, the fundamental principles, uses, and appropriate technical details of machine learning, data mining and data science. The emphasis is primarily on understanding the fundamental concepts and applications of data science. We will cover several algorithms though this is not an algorithms course, nor a course in machine learning or computational theory. Our aim rather is to present fundamental algorithms within the context of a larger data science and decision making process.",
+      "curriculum":[
+         "What is Data Science?",
+         "Data Analytic Thinking I",
+         "Informed Partitions",
+         "Fitting a Mathematical Model to Data",
+         "Overfitting and",
+         "Evaluation",
+         "Model Features",
+         "Data Mining",
+         "Combining Models",
+         "Supervised and Unsupervised Learning",
+         "Recommender Systems",
+         "Bayes Rule"
+      ],
+      "evaluation":[
+         "Exam",
+         "Homework",
+         "Quiz",
+         "Project"
+      ]
+   }
+]
